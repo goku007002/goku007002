@@ -45,7 +45,7 @@ Right now, I'm spending most of my time on **DSA, full-stack development, AI/ML,
 
 ### 📌 Featured Projects
 
-> A few things I'm building and experimenting with.
+
 
 **🤖 AI Projects**
 Exploring AI-powered applications, automation, and agent-based systems.
@@ -56,7 +56,7 @@ Building web applications to strengthen my frontend, backend, database, and API 
 **🧠 DSA & CS Fundamentals**
 Problem-solving practice in Python/C++ with a focus on understanding the fundamentals rather than just solving problems.
 
-> Check out my repositories for the latest projects and experiments.
+
 
 ---
 
